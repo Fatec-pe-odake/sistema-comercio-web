@@ -1,4 +1,4 @@
-package br.com.fatec.sistema_comercio_web;
+package br.com.fatec.sistema_comercio_web.controller;
 
 import br.com.fatec.sistema_comercio_web.model.Cliente;
 import br.com.fatec.sistema_comercio_web.service.ClienteService;
